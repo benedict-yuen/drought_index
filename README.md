@@ -1,2 +1,2 @@
-# drought_index
-Project to practice reproducible research practices while studying drought globally
+# README
+A repository for a project to practice reproducible research practices while studying drought globally
